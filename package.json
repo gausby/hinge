@@ -20,7 +20,6 @@
         "buster": ">= 0.6.12"
     },
     "scripts": {
-        "start": "rlwrap node repl.js",
         "test": "grunt test"
     },
     "engine": "*"
